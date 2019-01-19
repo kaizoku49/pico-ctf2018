@@ -1,0 +1,1 @@
+grep -oE picoCTF{.*} file
